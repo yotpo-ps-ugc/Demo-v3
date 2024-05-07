@@ -4,7 +4,7 @@ import { CopyToClipboard } from "react-copy-to-clipboard";
 function ReviewsCarouselClipboard() {
   const [value, setValue] = useState(`
       <div class="yotpo-widget-instance" 
-      data-yotpo-instance-id="600665" 
+      data-yotpo-instance-id="555239" 
       data-yotpo-product-id="Product ID">
       </div>
     `);
